@@ -13,4 +13,4 @@ ec2_ami_id     = "ami-0faab6bdbac9486fb"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "personalme.xyz"
+domain_name = "yourpersona.site"
